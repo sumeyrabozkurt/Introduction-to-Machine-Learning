@@ -1,12 +1,10 @@
-# GAIH Student Repo Example
+# Global AI Hub - Introduction to Machine Learning
 ![](img/newlogo.png)
 
 **Course Date:** 22.03.2021- 26.03.2021  
 **Name:** Sümeyra  
 **Surname:** Bozkurt  
-**Email:** sumeyrabozkurt8@gmail.com 
-
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**Email:** sumeyrabozkurt8@gmail.com   
 
 ## Project Name
 Description of your project.
