@@ -1,7 +1,7 @@
 # Global AI Hub - Introduction to Machine Learning
 ![](img/newlogo.png)
 
-**Course Date:** 22.03.2021- 26.03.2021  
+**Course Date:** 22.03.2021- 28.03.2021  
 **Name:** Sümeyra  
 **Surname:** Bozkurt  
 **Email:** sumeyrabozkurt8@gmail.com   
